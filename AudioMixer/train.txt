@@ -1,0 +1,2 @@
+C:\Kshitiz\True.1.wav C:\Kshitiz\True.1.fft
+C:\Kshitiz\False.1.wav C:\Kshitiz\False.1.fft
